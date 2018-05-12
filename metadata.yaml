@@ -1,4 +1,8 @@
 _repo: Trafalgar-A-Tale_47980
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47980-h/images/cover.jpg
 creator:
   author:
     agent_name: Pérez Galdós, Benito
@@ -17,6 +21,8 @@ description: Trafalgar, publicada en 1873, es la primera novela de la primera se
   y asiste a los preparativos y al desenlace de la batalla de Trafalgar, que la inexperta
   marina española pierde. Tras una serie de peripecias Gabriel nuevamente se escapa
   de casa para ir a Madrid a probar fortuna.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47980#Trafalgar-A-Tale
 gutenberg_issued: '2015-01-16'
 gutenberg_type: Text
 identifiers:
